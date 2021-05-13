@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ElenaGrasovskaya
-- 👀 I’m interested in web development, web design and motion design
-- 🌱 I’m currently learning 11ty
+- 👋 Hi, I’m @ElenaGrasovskaya and currently I'm making an attempt to teach myself web development. Since I have an engineering background I always dealt with technology, but web programming for me is a fine combination of beauty and order so I really hope to succeed in getting my proficiency to the appropriate level for building something really useful and elegant both inside and outside.
 
 
 <!---

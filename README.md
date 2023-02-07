@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ElenaGrasovskaya and currently I'm making an attempt to teach myself web development. Since I have engineering background I have always dealt with technology, but web programming for me is a fine combination of beauty and order so I really hope to succeed in getting my proficiency to the appropriate level for building something useful and elegant both inside and outside.
-
+-  👋 Hi, I’m @ElenaGrasovskaya and currently, I'm making an attempt to teach myself web development. Since I have an engineering background I have always dealt with technology and web programming seems a fine combination of beauty and order, so I could use it to build something useful and elegant both inside and outside, provided my proficiency would have got to the appropriate level.
 
 <!---
 ElenaGrasovskaya/ElenaGrasovskaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
